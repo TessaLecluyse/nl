@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "3BA",
-    "currentPage": "home.html",
+    "currentPage": "contactform.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -45,7 +45,7 @@
   "pages": {
     "biography.html": {
       "settings": {
-        "meta_descr": "Web Page Builder Description",
+        "meta_descr": "keramiek, biografie",
         "title": "biography",
         "order": 4
       },
@@ -518,7 +518,7 @@
     },
     "work.html": {
       "settings": {
-        "meta_descr": "Website Generator Description",
+        "meta_descr": "work, keramiek, glas, draaiwerk",
         "title": "work",
         "order": 6
       },
@@ -994,7 +994,7 @@
     },
     "keramiek.html": {
       "settings": {
-        "meta_descr": "Web Creator Description",
+        "meta_descr": "keramiek",
         "title": "keramiek",
         "order": 7
       },
@@ -1466,7 +1466,7 @@
     },
     "glas.html": {
       "settings": {
-        "meta_descr": "Website Generator Description",
+        "meta_descr": "keramiek, glas",
         "title": "glas",
         "order": 5
       },
@@ -1940,7 +1940,7 @@
     },
     "embodiedthrowings.html": {
       "settings": {
-        "meta_descr": "Website Generator Description",
+        "meta_descr": "keramiek, embodiedthrowings",
         "title": "embodiedthrowings",
         "order": 8
       },
@@ -2689,7 +2689,7 @@
     },
     "contactform.html": {
       "settings": {
-        "meta_descr": "Site Builder Description",
+        "meta_descr": "contact",
         "title": "contactform",
         "order": 9
       },
@@ -3213,7 +3213,7 @@
     },
     "tgb.html": {
       "settings": {
-        "meta_descr": "Web Site Creator Description",
+        "meta_descr": "keramiek",
         "title": "tgb",
         "order": 3
       },
@@ -3819,7 +3819,7 @@
     },
     "throwwork.html": {
       "settings": {
-        "meta_descr": "Site Creator Description",
+        "meta_descr": "keramiek",
         "title": "throwwork",
         "order": 2
       },
@@ -4254,7 +4254,7 @@
     },
     "sculpturaal.html": {
       "settings": {
-        "meta_descr": "Website Generator Description",
+        "meta_descr": "sculpturaal, keramiek",
         "title": "sculpturaal",
         "order": 1
       },
@@ -4967,11 +4967,11 @@
         }
       ]
     },
-    "home.html": {
+    "index.html": {
       "settings": {
         "main": true,
         "title": "home",
-        "meta_descr": "",
+        "meta_descr": "work, biografie, contact",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
