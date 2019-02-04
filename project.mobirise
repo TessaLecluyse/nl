@@ -4842,10 +4842,108 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Onderschrift hier",
+                "active": false
+              },
+              {
+                "tags": "Bewegende",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/48422552-307652896534160-1502867215022555136-l.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/48422552-307652896534160-1502867215022555136-l-800x534.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Onderschrift hier",
+                "active": false
+              },
+              {
+                "tags": "Bewegende",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/48422552-307652896534160-1502867215022555136-n.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/48422552-307652896534160-1502867215022555136-n-800x534.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Onderschrift hier",
+                "active": false
+              },
+              {
+                "tags": "Bewegende",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/48422552-307652896534160-1502867215022555136-p.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/48422552-307652896534160-1502867215022555136-p-625x918.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Onderschrift hier",
+                "active": false
+              },
+              {
+                "tags": "Bewegende",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/48422552-307652896534160-1502867215022555136-y-1.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/48422552-307652896534160-1502867215022555136-y-1-800x782.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Onderschrift hier",
+                "active": false
+              },
+              {
+                "tags": "Bewegende",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/48422552-307652896534160-1502867215022555136-t.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/48422552-307652896534160-1502867215022555136-t-800x534.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Onderschrift hier",
+                "active": false
+              },
+              {
+                "tags": "Bewegende",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/48422552-307652896534160-1502867215022555136-i.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/48422552-307652896534160-1502867215022555136-i-800x534.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Onderschrift hier",
                 "active": true
               }
             ]
           }
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-text": {
+              "color": "#767676"
+            }
+          },
+          "_name": "content3",
+          "_customHTML": "<section mbr-id=\"_anchor\" mbr-paddings class=\"mbr-section article content3\">\n      \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) --> \n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->     \n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"row col-12 col-md-8\">\n                <div class=\"col-12 col-md-6 pr-lg-4 mbr-text mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-article data-app-selector=\".mbr-text\" data-multiline><div>Untitled, 2019</div><div>These sculptures are representing, fysical powers such as gravity, tension, pressure and weight.</div><div><br></div><div>I made these sculptures with cilinders thrown on the potters wheel. In this way, they have an evenly wall, so there is no manipulation.&nbsp;</div><div>The cilinders are then attached to eachother whith a squeeze between my thumb and index finger, which leaves a fine detail on the clay.&nbsp;</div><div><br></div><div>By stocking them on top of eachother, there body transformes because of the tension between the cilinders, the pressure points and the gravity. They search for a way to escaped by searching al the empty spaces, with other words. the close the gaps between the cilinders.</div><div><br></div></div>\n                <div class=\"col-12 col-md-6 pl-lg-4 mbr-text mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-article data-app-selector=\".mbr-text\" data-multiline><p>I control the way I throw the cilinders on the wheel and how I place them in the sculpture, but I have no controle over how they will react to the fysical powers and themselfs.</p><p>It makes the sculpture interesting and very exiting to look at.&nbsp;</p><p><br></p></div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "content3-1s",
+          "_isUserblock": true,
+          "_sourceTheme": "mobirise4",
+          "_cid": "rh6wsLZxSW",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
         },
         {
           "_styles": {
