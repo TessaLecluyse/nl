@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "https://r0663194.github.io/nl/-clone",
-    "currentPage": "index.html",
+    "currentPage": "page9.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -3824,7 +3824,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "home",
+        "title": "index",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
